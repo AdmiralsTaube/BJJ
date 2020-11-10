@@ -1,2 +1,0 @@
-# BJJ
-Created with CodeSandbox
